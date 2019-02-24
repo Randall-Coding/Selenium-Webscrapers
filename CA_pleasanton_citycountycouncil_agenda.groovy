@@ -1,6 +1,7 @@
 package com.agendadiscovery.crawlers
 
 import com.agendadiscovery.DocumentWrapper
+import com.agendadiscovery.helpers.QuickMatch
 import org.openqa.selenium.By
 import org.openqa.selenium.NoSuchElementException
 import org.openqa.selenium.WebDriver
@@ -8,17 +9,24 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 
+import java.time.Year
 import java.util.concurrent.TimeUnit
 
 public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
+    private static final Logger log = LoggerFactory.getLogger(this.class)
+    int current_year = Year.now().getValue()
+    List <WebElement> docList = []
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
         //QUESTION ABOUT AGENDA.  CAN WE ADD NEW ATTRIBUTE TO DOCUMENTWRAPPER OR OTHER OPTION?
-        List docList = []
+        log.info("Starting crawler " + this.class.name)
+        log.info("Requesting baseURL: "+baseUrl)
         try {
-            driver.manage().timeouts()implicitlyWait(10, TimeUnit.SECONDS)
+            driver.manage().timeouts()implicitlyWait(5, TimeUnit.SECONDS)
             driver.get(baseUrl);
             // Wait for years to be displayed
             By yearLink = By.xpath("//nobr[span[contains(.,'2018')]]")
@@ -40,7 +48,7 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
             //Iterate through the dated folders
             folderNames.each{ String folderName ->
                 //grab link and refresh element (new DOM each time)
-                System.out.println(folderName) //debug
+                //debug System.out.println(folderName)
                 By folderPath = By.xpath("//a[contains(. ,'" + folderName + "')]")
                 WebElement folder = driver.findElement(folderPath)
                 folder.click()
@@ -56,6 +64,7 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
                     //grab title
                     By titlePath = By.xpath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]")
                     doc.title = driver.findElement(titlePath).getText()
+                    doc.title = doc.title.split('[\\\\]')[2]
                     //debug  System.out.println("\tTitle: ${doc.title}")
 
                     //grab agenda url
