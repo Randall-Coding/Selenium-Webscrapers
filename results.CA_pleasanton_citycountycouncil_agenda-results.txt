@@ -1,0 +1,91 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_pleasanton_citycountycouncil_agenda
+http://weblink.cityofpleasantonca.gov/weblink/Browse.aspx?startid=81&dbid=0
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 011618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276095/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 020618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276243/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 030618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276818/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 032018
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/277238/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 041718
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/277857/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 042318
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278016/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 050118
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278028/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 051518
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278190/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 060518
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278442/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 061918
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278887/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 070318
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279046/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 071718
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279107/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 082118
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279263/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 090418
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/280260/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 091818
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/280931/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 100218
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281006/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 101618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281137/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 110618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281334/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 120418
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281937/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 121118 Adjourned Meeting
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/282054/Page1.aspx
+Found document: 
+	Title - AGENDA PACKETS
+	Date - 121818
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/282061/Page1.aspx
+
+Ending process
+Found 21 documents
+================================================

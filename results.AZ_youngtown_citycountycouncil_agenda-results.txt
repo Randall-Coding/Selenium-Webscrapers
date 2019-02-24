@@ -1,0 +1,27 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.AZ_youngtown_citycountycouncil_agenda
+http://youngtownaz.hosted.civiclive.com//cms/One.aspx?pageId=13406575&portalId=12609077&objectId.259675=13424223&contextId.259675=13406577&parentId.259675=13406578
+Found document: 
+	Title - 01 07 19 SPECIAL FINAL
+	Date - 01 07 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15064192
+Found document: 
+	Title - 01 17 19-FINAL
+	Date - 01 17 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15092674
+Found document: 
+	Title - 02 07 19-FINAL
+	Date - 02 07 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15199150
+Found document: 
+	Title - 02 18 19-SPECIAL
+	Date - 02 18 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15253454
+Found document: 
+	Title - 02 21 19-FINAL
+	Date - 02 21 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15253456
+
+Ending process
+Found 5 documents
+================================================

@@ -1,0 +1,295 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.AZ_sedona_citycountycouncil_agenda
+http://kepler62f.sedonaaz.gov:600/DocCentral/folder.aspx?CC=1&tf=97
+Found document: 
+	Title - 02-26-19 Agenda
+	Date - 02-26-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36730
+Found document: 
+	Title - 02-26-19 Packet
+	Date - 02-26-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36728
+Found document: 
+	Title - 02-13-19 Agenda
+	Date - 02-13-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36662
+Found document: 
+	Title - 02-13-19 Packet
+	Date - 02-13-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36660
+Found document: 
+	Title - 02-12-19 Agenda
+	Date - 02-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36664
+Found document: 
+	Title - 02-12-19 Packet
+	Date - 02-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36658
+Found document: 
+	Title - 01-23-19 Agenda - Executive Session
+	Date - 01-23-19  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36479
+Found document: 
+	Title - 01-23-19 Action Item List - Executive Session
+	Date - 01-23-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36556
+Found document: 
+	Title - 01-23-19 Agenda - Special Meeting
+	Date - 01-23-19  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36481
+Found document: 
+	Title - 01-23-19 Packet
+	Date - 01-23-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36477
+Found document: 
+	Title - 01-23-19 Action Item List - Special Meeting
+	Date - 01-23-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36558
+Found document: 
+	Title - 01-22-19 Agenda - Executive Session
+	Date - 01-22-19  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36475
+Found document: 
+	Title - 01-22-19 Action Item List - Executive Session
+	Date - 01-22-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36552
+Found document: 
+	Title - 01-22-19 Agenda- Regular Meeting
+	Date - 01-22-19 -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36473
+Found document: 
+	Title - 01-22-19 Packet
+	Date - 01-22-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36471
+Found document: 
+	Title - 01-22-19 Action Item List - Regular Meeting
+	Date - 01-22-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36554
+Found document: 
+	Title - 01-15 & 01-16-19 Agenda
+	Date - 01-15 & 01-16-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36467
+Found document: 
+	Title - 01-15 & 01-16-19 Packet
+	Date - 01-15 & 01-16-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36465
+Found document: 
+	Title - 01-15 & 16-19 Action Item List
+	Date - 01-15 & 16-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36518
+Found document: 
+	Title - 01-15 & 16-19 Audio Part 1
+	Date - 01-15 & 16-19   1
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 01-15 & 16-19 Audio Part 2
+	Date - 01-15 & 16-19   2
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 01-15 & 16-19 Audio Part 3
+	Date - 01-15 & 16-19   3
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 01-15 & 16-19 Audio Part 4
+	Date - 01-15 & 16-19   4
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 01-09-19 Agenda
+	Date - 01-09-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36415
+Found document: 
+	Title - 01-09-19 Packet - REVISED
+	Date - 01-09-19  - 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36413
+Found document: 
+	Title - 01-08-19 Agenda
+	Date - 01-08-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36411
+Found document: 
+	Title - 01-08-19 Packet
+	Date - 01-08-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36409
+Found document: 
+	Title - 01-08-19 Action Item List
+	Date - 01-08-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36463
+Found document: 
+	Title - 12-12-18 Agenda - Executive Session
+	Date - 12-12-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36222
+Found document: 
+	Title - 12-12-18 Action Item List - Executive Session
+	Date - 12-12-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36286
+Found document: 
+	Title - 12-12-18 Agenda - Special Meeting
+	Date - 12-12-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36224
+Found document: 
+	Title - 12-12-18 Complete Packet
+	Date - 12-12-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36220
+Found document: 
+	Title - 12-12-18 Action Item List - Special Meeting
+	Date - 12-12-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36288
+Found document: 
+	Title - 12-12-18 - Special Meeting
+	Date - 12-12-18 -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36461
+Found document: 
+	Title - 12-11-18 Agenda
+	Date - 12-11-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36218
+Found document: 
+	Title - 12-11-18 Complete Packet
+	Date - 12-11-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36216
+Found document: 
+	Title - 12-11-18 Action Item List
+	Date - 12-11-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36284
+Found document: 
+	Title - 11-28-18 Agenda
+	Date - 11-28-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36138
+Found document: 
+	Title - 11-28-18 Complete Packet
+	Date - 11-28-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36136
+Found document: 
+	Title - 11-28-18 Action Item List
+	Date - 11-28-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36202
+Found document: 
+	Title - 11-27-18 Agenda - Executive Session
+	Date - 11-27-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36132
+Found document: 
+	Title - 11-27-18 Action Item List - Executive Session
+	Date - 11-27-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36182
+Found document: 
+	Title - 11-27-18 (E) Audio Open Portion Part 1
+	Date - 11-27-18 ()     1
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 11-27-18 (E) Audio Open Portion Part 2
+	Date - 11-27-18 ()     2
+	Link - http://www.sedonaaz.gov/your-government/council-commissions-committees-boards/meetings-video-audio/meetings-video-audio-city-council
+Found document: 
+	Title - 11-27-18 Agenda - Regular Meeting
+	Date - 11-27-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36134
+Found document: 
+	Title - 11-27-18 Complete Packet
+	Date - 11-27-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36130
+Found document: 
+	Title - 11-27-18 Action Item List - Regular Meeting
+	Date - 11-27-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36184
+Found document: 
+	Title - 11-26-18 Agenda
+	Date - 11-26-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36128
+Found document: 
+	Title - 11-26-18 Complete Packet
+	Date - 11-26-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36126
+Found document: 
+	Title - 11-26-18 Action Item List
+	Date - 11-26-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36150
+Found document: 
+	Title - 11-14-18 Agenda
+	Date - 11-14-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36026
+Found document: 
+	Title - 11-14-18 Complete Packet
+	Date - 11-14-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36024
+Found document: 
+	Title - 11-14-18 Action Item List
+	Date - 11-14-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36118
+Found document: 
+	Title - 11-13-18 Agenda - Executive Session
+	Date - 11-13-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36020
+Found document: 
+	Title - 11-13-18 Action Item List - Executive Session
+	Date - 11-13-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36114
+Found document: 
+	Title - 11-13-18 Agenda - Regular Meeting
+	Date - 11-13-18  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36022
+Found document: 
+	Title - 11-13-18 Complete Packet
+	Date - 11-13-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36018
+Found document: 
+	Title - 11-13-18 Action Item List - Regular Meeting
+	Date - 11-13-18    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36116
+Found document: 
+	Title - 10-25-18 Agenda
+	Date - 10-25-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35918
+Found document: 
+	Title - 10-25-18 Link to 10-24-18 Packet
+	Date - 10-25-18   10-24-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35916
+Found document: 
+	Title - 10-24-18 Agenda
+	Date - 10-24-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35914
+Found document: 
+	Title - 10-24 & 10-25-18 Complete Packet
+	Date - 10-24 & 10-25-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35912
+Found document: 
+	Title - 10-24-18 Action Item List
+	Date - 10-24-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36112
+Found document: 
+	Title - 10-23-18 Agenda
+	Date - 10-23-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35910
+Found document: 
+	Title - 10-23-18 Complete Packet
+	Date - 10-23-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35908
+Found document: 
+	Title - 10-23-18 Action Item List
+	Date - 10-23-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35976
+Found document: 
+	Title - 10-11-18 Agenda
+	Date - 10-11-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35787
+Found document: 
+	Title - 10-11-18 Complete Packet (Link to 10-10-18 Packet)
+	Date - 10-11-18   (  10-10-18 )
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35785
+Found document: 
+	Title - 10-11-18 Action Item List
+	Date - 10-11-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35833
+Found document: 
+	Title - 10-10-18 Agenda
+	Date - 10-10-18 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35783
+Found document: 
+	Title - 10-10-18 Complete Packet
+	Date - 10-10-18  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35781
+Found document: 
+	Title - 10-10-18 Action Item List
+	Date - 10-10-18   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35831
+
+Ending process
+Found 72 documents
+================================================

@@ -1,0 +1,347 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_plymouth_citycountycouncil_agenda
+http://www.cityofplymouth.org/doc-forms.html
+Found document: 
+	Title - April 13, 2017 Reg Agn.pdf
+	Date - April 13, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/April 13, 2017 Reg Agn.pdf
+Found document: 
+	Title - April 27, 2017 Reg Agn.pdf
+	Date - April 27, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/April 27, 2017 Reg Agn.pdf
+Found document: 
+	Title - August 10, 2017 Reg Agn.pdf
+	Date - August 10, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/August 10, 2017 Reg Agn.pdf
+Found document: 
+	Title - August 24, 2017 Reg Agn.pdf
+	Date - August 24, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/August 24, 2017 Reg Agn.pdf
+Found document: 
+	Title - December 14, 2017 Reg Agn.pdf
+	Date - December 14, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/December 14, 2017 Reg Agn.pdf
+Found document: 
+	Title - February 23, 2017 Reg Agn.pdf
+	Date - February 23, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/February 23, 2017 Reg Agn.pdf
+Found document: 
+	Title - February 9, 2017 Reg Agn.pdf
+	Date - February 9, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/February 9, 2017 Reg Agn.pdf
+Found document: 
+	Title - January 12 2017 Reg Agn.pdf
+	Date - January 12 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/January 12 2017 Reg Agn.pdf
+Found document: 
+	Title - January 26, 2017 Reg Agn.pdf
+	Date - January 26, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/January 26, 2017 Reg Agn.pdf
+Found document: 
+	Title - July 13, 2017 Reg Agn.pdf
+	Date - July 13, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/July 13, 2017 Reg Agn.pdf
+Found document: 
+	Title - July 26, 2017 SP Agn.pdf
+	Date - July 26, 2017 SP Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/July 26, 2017 SP Agn.pdf
+Found document: 
+	Title - June 22, 2017 Reg Agn.pdf
+	Date - June 22, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/June 22, 2017 Reg Agn.pdf
+Found document: 
+	Title - June 8, 2017 Reg Agn.pdf
+	Date - June 8, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/June 8, 2017 Reg Agn.pdf
+Found document: 
+	Title - March 23, 2017 Reg Agn.pdf
+	Date - March 23, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/March 23, 2017 Reg Agn.pdf
+Found document: 
+	Title - May 11, 2017 Reg Agn.pdf
+	Date - May 11, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/May 11, 2017 Reg Agn.pdf
+Found document: 
+	Title - May 25, 2017 Reg Agn.pdf
+	Date - May 25, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/May 25, 2017 Reg Agn.pdf
+Found document: 
+	Title - November 9, 2017 Reg Agn.pdf
+	Date - November 9, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/November 9, 2017 Reg Agn.pdf
+Found document: 
+	Title - October 12 2017 Reg Agn FINAL.pdf
+	Date - October 12 2017 Reg Agn FINAL.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/October 12 2017 Reg Agn FINAL.pdf
+Found document: 
+	Title - October 26 2017 Reg Agn.pdf
+	Date - October 26 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/October 26 2017 Reg Agn.pdf
+Found document: 
+	Title - September 14, 2017 Reg Agn.pdf
+	Date - September 14, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/September 14, 2017 Reg Agn.pdf
+Found document: 
+	Title - September 28, 2017 Reg Agn.pdf
+	Date - September 28, 2017 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2017/September 28, 2017 Reg Agn.pdf
+Found document: 
+	Title - April 12, 2018 Reg Agn.pdf
+	Date - April 12, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/April 12, 2018 Reg Agn.pdf
+Found document: 
+	Title - April 26, 2018 Reg Agn Cancelation.pdf
+	Date - April 26, 2018 Reg Agn Cancelation.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/April 26, 2018 Reg Agn Cancelation.pdf
+Found document: 
+	Title - August 23, 2018 Reg Agn.pdf
+	Date - August 23, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/August 23, 2018 Reg Agn.pdf
+Found document: 
+	Title - August 9, 2018 Reg Agn.pdf
+	Date - August 9, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/August 9, 2018 Reg Agn.pdf
+Found document: 
+	Title - December 13 2018 -Regular Amended Agenda.pdf
+	Date - December 13 2018 -Regular Amended Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/December 13 2018 -Regular Amended Agenda.pdf
+Found document: 
+	Title - December 13, 2018 - Regular Amended Agenda Packet.pdf
+	Date - December 13, 2018 - Regular Amended Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/December 13, 2018 - Regular Amended Agenda Packet.pdf
+Found document: 
+	Title - December 20 2018 - Special Agenda Packet.pdf
+	Date - December 20 2018 - Special Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/December 20 2018 - Special Agenda Packet.pdf
+Found document: 
+	Title - December 20 2018 - Special Agenda.pdf
+	Date - December 20 2018 - Special Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/December 20 2018 - Special Agenda.pdf
+Found document: 
+	Title - December 27, 2018 Reg Agn Cancellation.pdf
+	Date - December 27, 2018 Reg Agn Cancellation.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/December 27, 2018 Reg Agn Cancellation.pdf
+Found document: 
+	Title - February 22, 2018 Reg Agn.pdf
+	Date - February 22, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/February 22, 2018 Reg Agn.pdf
+Found document: 
+	Title - February 8, 2018 Reg Agn.pdf
+	Date - February 8, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/February 8, 2018 Reg Agn.pdf
+Found document: 
+	Title - January 11, 2018 Reg Agn.pdf
+	Date - January 11, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/January 11, 2018 Reg Agn.pdf
+Found document: 
+	Title - January 25, 2018 Reg Agn.pdf
+	Date - January 25, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/January 25, 2018 Reg Agn.pdf
+Found document: 
+	Title - July 12, 2018 Reg Agn.pdf
+	Date - July 12, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/July 12, 2018 Reg Agn.pdf
+Found document: 
+	Title - July 26, 2018 Reg Agn Cancelation.pdf
+	Date - July 26, 2018 Reg Agn Cancelation.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/July 26, 2018 Reg Agn Cancelation.pdf
+Found document: 
+	Title - June 14, 2018 Reg Agn.pdf
+	Date - June 14, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/June 14, 2018 Reg Agn.pdf
+Found document: 
+	Title - June 28, 2018 Reg Agn.pdf
+	Date - June 28, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/June 28, 2018 Reg Agn.pdf
+Found document: 
+	Title - March 22, 2018 Reg Agn.pdf
+	Date - March 22, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/March 22, 2018 Reg Agn.pdf
+Found document: 
+	Title - March 8, 2018 Reg Agn.pdf
+	Date - March 8, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/March 8, 2018 Reg Agn.pdf
+Found document: 
+	Title - May 10, 2018 Reg Agn.pdf
+	Date - May 10, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/May 10, 2018 Reg Agn.pdf
+Found document: 
+	Title - May 24, 2018 Reg Agn.pdf
+	Date - May 24, 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/May 24, 2018 Reg Agn.pdf
+Found document: 
+	Title - November 14 2018 SP Agn.pdf
+	Date - November 14 2018 SP Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/November 14 2018 SP Agn.pdf
+Found document: 
+	Title - November 22, 2018 Reg Agn Cancelation.pdf
+	Date - November 22, 2018 Reg Agn Cancelation.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/November 22, 2018 Reg Agn Cancelation.pdf
+Found document: 
+	Title - November 8 2018 Reg Agn.pdf
+	Date - November 8 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/November 8 2018 Reg Agn.pdf
+Found document: 
+	Title - October 11 2018 Reg Agn.pdf
+	Date - October 11 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/October 11 2018 Reg Agn.pdf
+Found document: 
+	Title - October 25 2018 Reg Agn.pdf
+	Date - October 25 2018 Reg Agn.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/October 25 2018 Reg Agn.pdf
+Found document: 
+	Title - October 25 2018 Special Agn .pdf
+	Date - October 25 2018 Special Agn .pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/October 25 2018 Special Agn .pdf
+Found document: 
+	Title - September 13 2018 Reg Agn REVISED.pdf
+	Date - September 13 2018 Reg Agn REVISED.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/September 13 2018 Reg Agn REVISED.pdf
+Found document: 
+	Title - September 27, 2018 Reg Agn .pdf
+	Date - September 27, 2018 Reg Agn .pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2018/September 27, 2018 Reg Agn .pdf
+Found document: 
+	Title - February 14 2019 Reg Agenda Packet.pdf
+	Date - February 14 2019 Reg Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/February 14 2019 Reg Agenda Packet.pdf
+Found document: 
+	Title - February 28 2019 Reg Agenda Packet.pdf
+	Date - February 28 2019 Reg Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/February 28 2019 Reg Agenda Packet.pdf
+Found document: 
+	Title - Feburary 14 2019 Reg Agenda .pdf
+	Date - Feburary 14 2019 Reg Agenda .pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/Feburary 14 2019 Reg Agenda .pdf
+Found document: 
+	Title - Feburary 25 2019 SP Agenda.pdf
+	Date - Feburary 25 2019 SP Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/Feburary 25 2019 SP Agenda.pdf
+Found document: 
+	Title - Feburary 28 2019 Reg Agenda.pdf
+	Date - Feburary 28 2019 Reg Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/Feburary 28 2019 Reg Agenda.pdf
+Found document: 
+	Title - January 10 2019 Reg Agenda Packet.pdf
+	Date - January 10 2019 Reg Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/January 10 2019 Reg Agenda Packet.pdf
+Found document: 
+	Title - January 10 2019 Reg Agenda.pdf
+	Date - January 10 2019 Reg Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/January 10 2019 Reg Agenda.pdf
+Found document: 
+	Title - January 24 2019 Reg Agenda Packet.pdf
+	Date - January 24 2019 Reg Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/January 24 2019 Reg Agenda Packet.pdf
+Found document: 
+	Title - January 24 2019 Reg Agenda.pdf
+	Date - January 24 2019 Reg Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/January 24 2019 Reg Agenda.pdf
+Found document: 
+	Title - FEB 16, 2017 CANCELLATION NOTICE.pdf
+	Date - FEB 16, 2017 CANCELLATION NOTICE.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/FEB 16, 2017 CANCELLATION NOTICE.pdf
+Found document: 
+	Title - FEB 2, 2017 CANCELLATION NOTICE.pdf
+	Date - FEB 2, 2017 CANCELLATION NOTICE.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/FEB 2, 2017 CANCELLATION NOTICE.pdf
+Found document: 
+	Title - JULY 20, 2017 PC Cancellation Notice.pdf
+	Date - JULY 20, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/JULY 20, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - July 6th 2017 PC AGENDA.pdf
+	Date - July 6th 2017 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/July 6th 2017 PC AGENDA.pdf
+Found document: 
+	Title - JUNE 1, 2017 PC Cancellation Notice.pdf
+	Date - JUNE 1, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/JUNE 1, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - JUNE 15, 2017 PC Cancellation Notice.pdf
+	Date - JUNE 15, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/JUNE 15, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - March 2, 2017 PC Cancellation Notice.pdf
+	Date - March 2, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/March 2, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - MAY 4, 2017 PC Cancellation Notice.pdf
+	Date - MAY 4, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/MAY 4, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - Novomber 2, 2017 PC Agenda.pdf
+	Date - Novomber 2, 2017 PC Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/Novomber 2, 2017 PC Agenda.pdf
+Found document: 
+	Title - OCT 5, 2017 PC Cancellation Notice.pdf
+	Date - OCT 5, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/OCT 5, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - SEPT 21, 2017 PC Cancellation Notice.pdf
+	Date - SEPT 21, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/SEPT 21, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - SEPT 7, 2017 PC Cancellation Notice.pdf
+	Date - SEPT 7, 2017 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/SEPT 7, 2017 PC Cancellation Notice.pdf
+Found document: 
+	Title - 1_February 15 2018 Agenda.pdf
+	Date - 1_February 15 2018 Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/1_February 15 2018 Agenda.pdf
+Found document: 
+	Title - December 20, 2018 PC Cancellation Notice.pdf
+	Date - December 20, 2018 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/December 20, 2018 PC Cancellation Notice.pdf
+Found document: 
+	Title - December 6, 2018 PC AGENDA.pdf
+	Date - December 6, 2018 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/December 6, 2018 PC AGENDA.pdf
+Found document: 
+	Title - MAY 17, 2018 PC AGENDA.pdf
+	Date - MAY 17, 2018 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/MAY 17, 2018 PC AGENDA.pdf
+Found document: 
+	Title - November 1, 2018 PC AGENDA.pdf
+	Date - November 1, 2018 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/November 1, 2018 PC AGENDA.pdf
+Found document: 
+	Title - NOVEMBER 15, 2018 PC Cancellation Notice.pdf
+	Date - NOVEMBER 15, 2018 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/NOVEMBER 15, 2018 PC Cancellation Notice.pdf
+Found document: 
+	Title - October 18, 2018 PC AGENDA.pdf
+	Date - October 18, 2018 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/October 18, 2018 PC AGENDA.pdf
+Found document: 
+	Title - October 4, 2018 PC AGENDA.pdf
+	Date - October 4, 2018 PC AGENDA.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2018/October 4, 2018 PC AGENDA.pdf
+Found document: 
+	Title - February 21 2019 PC Cancellation Notice.pdf
+	Date - February 21 2019 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/February 21 2019 PC Cancellation Notice.pdf
+Found document: 
+	Title - February 7, 2019 PC Agenda.pdf
+	Date - February 7, 2019 PC Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/February 7, 2019 PC Agenda.pdf
+Found document: 
+	Title - February 7, 2019 PC Agenda Packet.pdf
+	Date - February 7, 2019 PC Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/February 7, 2019 PC Agenda Packet.pdf
+Found document: 
+	Title - January 17 2019 PC Cancellation Notice.pdf
+	Date - January 17 2019 PC Cancellation Notice.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/January 17 2019 PC Cancellation Notice.pdf
+Found document: 
+	Title - January 3, 2019 PC Agenda.pdf
+	Date - January 3, 2019 PC Agenda.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/January 3, 2019 PC Agenda.pdf
+Found document: 
+	Title - January 3, 2019 PC Agenda Packet.pdf
+	Date - January 3, 2019 PC Agenda Packet.pdf
+	Link - https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2019/January 3, 2019 PC Agenda Packet.pdf
+
+Ending process
+Found 85 documents
+================================================
