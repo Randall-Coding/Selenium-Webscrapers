@@ -1,0 +1,71 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CO_aurora_citycountycouncil_agenda
+https://www.auroragov.org/cms/One.aspx?pageId=2023287&portalId=1881221&objectId.60273=15063358&contextId.60273=3421476&parentId.60273=3421478
+Found document: 
+	Title - Council Rules - 2019-Redline 1-15
+	Date - Council Rules - 2019-Redline 1-15
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15152363
+Found document: 
+	Title - 02-25-2019 Study Session
+	Date - 02-25-2019 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15281195
+Found document: 
+	Title - 02-25-2019 Council Meeting - 13a Continuation page information-full version
+	Date - 02-25-2019 Council Meeting - 13a Continuation page information-full version
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15286069
+Found document: 
+	Title - 02-25-2019 Council Meeting
+	Date - 02-25-2019 Council Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15281177
+Found document: 
+	Title - 02-09-2019 Winter Workshop
+	Date - 02-09-2019 Winter Workshop
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15217002
+Found document: 
+	Title - 02-04-2019 Study Session
+	Date - 02-04-2019 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15199666
+Found document: 
+	Title - 02-04-2019 M&F Draft minutes
+	Date - 02-04-2019 M&F Draft minutes
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15207113
+Found document: 
+	Title - 02-04-2019 Council Meeting
+	Date - 02-04-2019 Council Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15199661
+Found document: 
+	Title - 02-04-2019 AURA Meeting
+	Date - 02-04-2019 AURA Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15199669
+Found document: 
+	Title - 01-28-2019 Study Session
+	Date - 01-28-2019 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15137401
+Found document: 
+	Title - 01-28-2019 Council Meeting
+	Date - 01-28-2019 Council Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15137399
+Found document: 
+	Title - 01-28-2019 AURA Meeting
+	Date - 01-28-2019 AURA Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15137403
+Found document: 
+	Title - 01-14-2019 Special Study Session
+	Date - 01-14-2019 Special Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15090724
+Found document: 
+	Title - 01-07-2019 Study Session - REVISED
+	Date - 01-07-2019 Study Session - REVISED
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15073109
+Found document: 
+	Title - 01-07-2019 Council Meeting - REVISED
+	Date - 01-07-2019 Council Meeting - REVISED
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15073103
+Found document: 
+	Title - 01-07-19 Study Session
+	Date - 01-07-19 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15063371
+
+Ending process
+Found 16 documents
+================================================
