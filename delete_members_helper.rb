@@ -44,6 +44,6 @@ module DeleteMembersHelper
     # Click delete on the first row
     delete = row.find_element(xpath:'.//a[@data-method="delete"]')
     delete.click()
-    puts "Deleted member for tele: " + number
+    puts "Deleted member for telephone number " + number
   end
 end
